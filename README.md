@@ -1,6 +1,6 @@
 ## Management System
 本プロジェクトは　React　講義目的として作った、顧客管理システム
-(Management System)でありあす。　
+(Management System)でありあす
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
